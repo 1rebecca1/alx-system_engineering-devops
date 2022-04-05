@@ -1,2 +1,2 @@
 #!/bin/bashr
-echo $hello MyUser
+echo hello MyUser $USER
